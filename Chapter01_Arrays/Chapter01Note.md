@@ -1,3 +1,8 @@
+Cái chương 1 này là cháu đọc tài liệu 
+Cháu đọc tài liệu nhưng cháu thấy ko hiệu quả lên cháu xem video và cháu tự tóm tắt lại lý thuyết và code theo họ
+Dự định của cháu là code theo các bài của họ và cháu sẽ làm leetcode ạ
+yếu phần nào cháu sẽ xem lại phần đấy ạ
+
 # Chương 1 : Array
 Mảng là một CTDL cơ bản và phổ biến ở trong lập trình
 Ở trong chương này :
